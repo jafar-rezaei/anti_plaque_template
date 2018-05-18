@@ -1,0 +1,21 @@
+/**
+*   Anti pluque project - 2017/01/13
+*   ---------
+*   Author      :   Jafar rezaei
+*   mail        :   Bomber.man87@yahoo.com
+*   website     :   http://rezaei.ir
+*/
+
+/**
+*    ## Default Color
+*/
+
+a,.tp-caption a.btn:hover{color:#4db6ac}
+.top-nav-collapse{background:#4db6ac}
+.navbar-custom ul.nav ul.dropdown-menu li a:hover{color:#4db6ac}
+.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{background-color:#4db6ac}
+.widget-avatar .avatar:hover{border:5px solid #4db6ac}
+.bg-skin{background:#4db6ac}
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus{border-color:#4db6ac}
+footer{background-color:#4db6ac}
+.btn-skin{color:#fff;background-color:#4db6ac;border-color:#4db6ac}
